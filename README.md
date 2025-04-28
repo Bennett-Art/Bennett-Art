@@ -22,7 +22,7 @@
 -  Exploring procedural generation techniques to enhance creative workflows.
 -  Currently overhauling the production pipeline of 2024 GEMA Agency of the Year, ZEALOT.
 
-## Skill Set:
+## Arsenal:
 
 <table><tr><td valign="top" width="25%">
 

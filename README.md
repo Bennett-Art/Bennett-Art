@@ -14,39 +14,53 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-## About Me:
+## Mission:
 
-
--  Creative output by means of technical innovation.
+Motion Designer & Pipeline TD bringing technical artistry to NYC & LA's leading trailer house. By working closely with dynamic teams and learning from user insights, I develop solutions that bridge the gap between technical innovation and artistic vision, creating space for award-winning content to thrive.
+Currently focused on:
+-  Overhauling the production pipeline of 2024 GEMA Agency of the Year, ZEALOT.
 -  Building tools that ease technical burdens for artists and productions.
 -  Exploring procedural generation techniques to enhance creative workflows.
--  Currently overhauling the production pipeline of 2024 GEMA Agency of the Year, ZEALOT.
 
 ## Arsenal:
+<table><tr><td valign="top" width="20%">
 
-<table><tr><td valign="top" width="25%">
-
-### Code  
+### Languages  
 <a href="https://github.com/bennett-art">
 <div align="center">  
-       <img src="https://skillicons.dev/icons?i=python,js,cpp,react,html,css,lua&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=python,cpp,js,lua&perline=4" /> 
 </div>
 </a>
- </td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
         
-### Technologies
+### Front-End
 <a href="https://github.com/bennett-art">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=qt,pycharm,pytorch,tensorflow,opencv,aws,git&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=react,html,css,qt,nextjs&perline=4" /> 
 </div>
 </a>
-
-</td><td valign="top" width="25%">
+</td><td valign="top" width="20%">
   
 ### DCC
 <a href="https://github.com/bennett-art">
 <div align="center">
        <img src="https://skillicons.dev/icons?i=unreal,unity,ps,pr,ae,blender&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="20%">
+
+### DevOps & Tools
+<a href="https://github.com/bennett-art">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=pycharm,git,github,docker,linux,aws,nodejs&perline=4" /> 
+</div>
+</a>
+</td><td valign="top" width="20%">
+
+### Machine Learning
+<a href="https://github.com/bennett-art">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,pandas,numpy&perline=4" /> 
 </div>
 </a>
 </td>
